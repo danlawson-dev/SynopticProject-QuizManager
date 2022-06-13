@@ -1,0 +1,21 @@
+﻿.accordion {
+  border: 1px solid #dddfe1;
+  border-radius: 8px;
+  padding: 10px;
+}
+.accordion .accordion-item {
+  padding: 10px 0px;
+}
+.accordion .accordion-item .accordion-button {
+  border-radius: 8px 8px 0px 0px !important;
+  box-shadow: none !important;
+  color: #24292f !important;
+}
+.accordion .accordion-item .accordion-button:not(.collapsed) {
+  background-color: #dddfe1;
+}
+.accordion .accordion-item .accordion-body {
+  border: 1px solid #dddfe1;
+  border-radius: 0px 0px 8px 8px;
+  border-top: none;
+}

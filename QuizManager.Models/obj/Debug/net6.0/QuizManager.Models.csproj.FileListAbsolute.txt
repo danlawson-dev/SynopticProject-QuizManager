@@ -1,0 +1,48 @@
+C:\PD\QuizManager\QuizManager.Models\bin\Debug\net6.0\QuizManager.Models.deps.json
+C:\PD\QuizManager\QuizManager.Models\bin\Debug\net6.0\QuizManager.Models.dll
+C:\PD\QuizManager\QuizManager.Models\bin\Debug\net6.0\QuizManager.Models.pdb
+C:\PD\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.csproj.AssemblyReference.cache
+C:\PD\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\PD\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.AssemblyInfoInputs.cache
+C:\PD\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.AssemblyInfo.cs
+C:\PD\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.csproj.CoreCompileInputs.cache
+C:\PD\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.dll
+C:\PD\QuizManager\QuizManager.Models\obj\Debug\net6.0\refint\QuizManager.Models.dll
+C:\PD\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.pdb
+C:\PD\QuizManager\QuizManager.Models\obj\Debug\net6.0\ref\QuizManager.Models.dll
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.Models\bin\Debug\net6.0\QuizManager.Models.deps.json
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.Models\bin\Debug\net6.0\QuizManager.Models.dll
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.Models\bin\Debug\net6.0\QuizManager.Models.pdb
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.csproj.AssemblyReference.cache
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.AssemblyInfoInputs.cache
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.AssemblyInfo.cs
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.dll
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.Models\obj\Debug\net6.0\refint\QuizManager.Models.dll
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.pdb
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.Models\obj\Debug\net6.0\ref\QuizManager.Models.dll
+C:\Users\danla\Desktop\QuizManager\QuizManager.Models\bin\Debug\net6.0\QuizManager.Models.deps.json
+C:\Users\danla\Desktop\QuizManager\QuizManager.Models\bin\Debug\net6.0\QuizManager.Models.dll
+C:\Users\danla\Desktop\QuizManager\QuizManager.Models\bin\Debug\net6.0\QuizManager.Models.pdb
+C:\Users\danla\Desktop\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.csproj.AssemblyReference.cache
+C:\Users\danla\Desktop\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danla\Desktop\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.AssemblyInfoInputs.cache
+C:\Users\danla\Desktop\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.AssemblyInfo.cs
+C:\Users\danla\Desktop\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\danla\Desktop\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.dll
+C:\Users\danla\Desktop\QuizManager\QuizManager.Models\obj\Debug\net6.0\refint\QuizManager.Models.dll
+C:\Users\danla\Desktop\QuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.pdb
+C:\Users\danla\Desktop\QuizManager\QuizManager.Models\obj\Debug\net6.0\ref\QuizManager.Models.dll
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.Models\bin\Debug\net6.0\QuizManager.Models.deps.json
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.Models\bin\Debug\net6.0\QuizManager.Models.dll
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.Models\bin\Debug\net6.0\QuizManager.Models.pdb
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.csproj.AssemblyReference.cache
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.AssemblyInfoInputs.cache
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.AssemblyInfo.cs
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.dll
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.Models\obj\Debug\net6.0\refint\QuizManager.Models.dll
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.Models\obj\Debug\net6.0\QuizManager.Models.pdb
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.Models\obj\Debug\net6.0\ref\QuizManager.Models.dll

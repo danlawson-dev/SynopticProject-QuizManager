@@ -1,0 +1,19 @@
+@import 'i-branding-colours.scss';
+@import 'i-breakpoints.scss';
+@import 'i-global-styles.scss';
+
+footer {
+    background: $bg-primary;
+    border-top: 1px solid $bg-secondary-hover;
+    bottom: 0;
+    height: $footer-height-sm;
+    line-height: 30px;
+    position: fixed;
+    width: 100%;
+}
+
+@media (min-width: $sm) {
+    footer {
+        height: $footer-height;
+    }
+}

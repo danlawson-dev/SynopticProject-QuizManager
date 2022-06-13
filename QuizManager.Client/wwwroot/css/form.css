@@ -1,0 +1,26 @@
+﻿.formContainer {
+  background: #fff;
+  border-radius: 8px;
+  padding: 30px;
+}
+.formContainer img {
+  height: auto;
+  max-width: 350px;
+  max-height: 150px;
+  width: 100%;
+}
+.formContainer .button-container a, .formContainer .button-container button {
+  width: 100%;
+}
+
+.form-control, .form-check-input {
+  border-color: #dddfe1;
+  border-radius: 8px !important;
+  box-shadow: none !important;
+}
+.form-control:hover, .form-check-input:hover {
+  border-color: #2986cc;
+}
+.form-control:focus, .form-check-input:focus {
+  border-color: #1C5C8C;
+}

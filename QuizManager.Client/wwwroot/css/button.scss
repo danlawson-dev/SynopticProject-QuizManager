@@ -1,0 +1,38 @@
+@import 'i-branding-colours.scss';
+@import 'i-global-styles.scss';
+
+.btn {
+    border-color: transparent !important;
+    border-radius: $border-radius;
+    box-shadow: none !important;
+}
+
+.btn-primary, .btn-primary:active, .btn-primary:focus {
+    background: $button-primary;
+    color: $bg-primary !important;
+
+    &:hover {
+        background: $button-primary-hover;
+    }
+}
+
+.btn-secondary, .btn-secondary:active, .btn-secondary:focus {
+    background: $bg-secondary;
+    color: $fg-primary !important;
+
+    &:hover {
+        background: $bg-secondary-hover;
+    }
+}
+
+.btn-text, .btn-text:active, .btn-text:focus {
+    color: $fg-primary-hover;
+    font-size: 12px;
+    padding: 0;
+    text-decoration: none;
+    vertical-align: inherit;
+
+    &:hover {
+        color: $fg-primary;
+    }
+}

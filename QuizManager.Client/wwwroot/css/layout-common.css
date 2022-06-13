@@ -1,0 +1,13 @@
+﻿body {
+  color: #24292f;
+  overflow-x: hidden;
+}
+
+h1 {
+  font-size: 35px;
+}
+
+.text-muted {
+  color: #57606a !important;
+  font-size: 12px;
+}

@@ -1,0 +1,33 @@
+﻿@model QuizDeleteViewModel
+
+@{
+    ViewData["Title"] = "Delete Quiz";
+}
+
+<div class="page-heading row">
+    <div class="col-sm-6 text-sm-start col-12 text-center px-4">
+        <h1>Delete Quiz</h1>
+    </div>
+</div>
+
+<div class="row">
+    <div class="formContainer col-xl-6 col-sm-8 col-12 m-auto">
+        <form asp-controller="Quiz" asp-action="Delete" method="post">
+            <div class="text-center mb-3">
+                <h2>Are you sure you want to delete quiz: '@Model.QuizTitle'?</h2>
+                <b>This will also delete any questions and answers associated with this quiz.</b>
+            </div>
+            <input asp-for="QuizId" type="hidden" id="hiddenQuizId">
+            <input asp-for="CancelledReturnUrl" type="hidden" id="hiddenCancelledReturnUrl">
+
+            <div class="button-container row mb-3">
+                <div class="col-sm-6 col-12">
+                    <a class="btn btn-secondary" href="@Model.CancelledReturnUrl">No</a>
+                </div>
+                <div class="col-sm-6 col-12 mt-sm-0 mt-2">
+                    <button type="submit" class="btn btn-danger">Yes</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

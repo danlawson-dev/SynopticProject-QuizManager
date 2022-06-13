@@ -1,0 +1,40 @@
+﻿@model QuizUpdateViewModel
+
+@{
+    ViewData["Title"] = @Model.TitleText;
+}
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial"); 
+}
+
+<div class="page-heading row">
+    <div class="col-sm-6 text-sm-start col-12 text-center px-4">
+        <h1>@Model.TitleText</h1>
+    </div>
+</div>
+
+<div class="row">
+    <div class="formContainer col-xl-6 col-sm-8 col-12 m-auto">
+        <form asp-controller="Quiz" asp-action="Update" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-floating mb-3">
+                <input asp-for="QuizTitle" type="text" id="quizTitle" class="form-control" autofocus>
+                <label asp-for="QuizTitle" for="quizTitle"></label>
+                <span asp-validation-for="QuizTitle" class="text-danger"></span>
+            </div>
+            <input asp-for="QuizId" type="hidden" id="hiddenQuizId">
+            <input asp-for="IsExistingQuiz" type="hidden" id="hiddenIsExistingQuiz">
+            <input asp-for="CancelledReturnUrl" type="hidden" id="hiddenCancelledReturnUrl">
+
+            <div class="button-container row mb-3">
+                <div class="col-sm-6 col-12">
+                    <a class="btn btn-secondary" href="@Model.CancelledReturnUrl">Cancel</a>
+                </div>
+                <div class="col-sm-6 col-12 mt-sm-0 mt-2">
+                    <button type="submit" class="btn btn-primary">@Model.ButtonSubmitText</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,20 @@
+﻿.page-heading {
+  align-items: center;
+  background: #fff;
+  border-bottom: 1px solid #dddfe1;
+  height: 140px;
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+}
+.page-heading h1 {
+  margin-bottom: 0;
+}
+
+@media (min-width: 576px) {
+  .page-heading {
+    height: 70px;
+  }
+}

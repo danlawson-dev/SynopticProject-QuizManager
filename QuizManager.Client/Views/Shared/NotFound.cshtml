@@ -1,0 +1,13 @@
+﻿@using QuizManager.Models.Helpers
+
+@{
+    ViewData["Title"] = NotFoundConstants.NotFound;
+}
+
+<div class="page-heading row">
+    <div class="col-sm-6 text-sm-start col-12 text-center px-4">
+        <h1>@NotFoundConstants.NotFound</h1>
+    </div>
+</div>
+
+@await Html.PartialAsync("_NothingToDisplay", new NothingToDisplayViewModel() { Message = NotFoundConstants.NotFoundMessage, ShowGoToHomepageButton = true })

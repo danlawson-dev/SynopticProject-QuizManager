@@ -1,0 +1,19 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using QuizManager.Models.Helpers
+
+@inject UserManager<User> UserManager
+
+<footer class="text-muted">
+    <div class="row mx-0">
+        <div class="col-sm-6 text-sm-start col-12 text-center px-4">
+            @ApplicationConstants.CopyrightStatement
+        </div>
+        <div class="col-sm-6 text-sm-end col-12 text-center px-4">
+            <form asp-controller="Account" asp-action="Logout" method="post">
+                <button type="submit" class="btn btn-text">
+                    Logout @UserManager.GetUserName(User)
+                </button>
+            </form>
+        </div>
+    </div>
+</footer>

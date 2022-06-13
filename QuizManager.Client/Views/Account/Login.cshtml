@@ -1,0 +1,46 @@
+﻿@using QuizManager.Models.Helpers
+
+@model AccountLoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_LayoutExternal.cshtml";
+}
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial"); 
+}
+
+<div class="row h-100">
+    <div class="formContainer col-xxl-3 col-xl-4 col-lg-5 col-md-6 col-9 m-auto">
+        <form asp-controller="Account" asp-action="Login" method="post">
+            <img class="company-logo mb-3" src="~/images/company-logo.png" alt="Company Logo" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-floating mb-3">
+                <input asp-for="Username" type="text" id="username" class="form-control" autofocus>
+                <label asp-for="Username" for="username"></label>
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Password" type="password" id="password" class="form-control">
+                <label asp-for="Password" for="password"></label>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-check mb-3">
+                <label asp-for="RememberLogin" for="rememberLogin" class="form-check-label"></label>
+                <input asp-for="RememberLogin" type="checkbox" id="rememberLogin" class="form-check-input">
+            </div>
+            <input asp-for="ReturnUrl" type="hidden" id="hiddenReturnUrl">
+
+            <div class="button-container row mb-3">
+                <div class="col-12">
+                    <button type="submit" class="btn btn-primary">Login</button>
+                </div>
+            </div>
+
+            <div class="text-muted text-center">
+                @ApplicationConstants.CopyrightStatement
+            </div>
+        </form>
+    </div>
+</div>

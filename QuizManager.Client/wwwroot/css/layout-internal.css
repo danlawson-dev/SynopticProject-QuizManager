@@ -1,0 +1,14 @@
+﻿.layout-internal {
+  background: #fff;
+  min-height: 100vh;
+  padding: 15px;
+  padding-bottom: 75px;
+  padding-top: 155px;
+}
+
+@media (min-width: 576px) {
+  .layout-internal {
+    padding-bottom: 45px;
+    padding-top: 85px;
+  }
+}

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.identity.ui\6.0.5\buildTransitive\Microsoft.AspNetCore.Identity.UI.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.identity.ui\6.0.5\buildTransitive\Microsoft.AspNetCore.Identity.UI.targets')" />
+    <Import Project="$(NuGetPackageRoot)ligershark.weboptimizer.core\3.0.365\build\LigerShark.WebOptimizer.Core.targets" Condition="Exists('$(NuGetPackageRoot)ligershark.weboptimizer.core\3.0.365\build\LigerShark.WebOptimizer.Core.targets')" />
+    <Import Project="$(NuGetPackageRoot)buildwebcompiler2022\1.14.8\build\BuildWebCompiler2022.targets" Condition="Exists('$(NuGetPackageRoot)buildwebcompiler2022\1.14.8\build\BuildWebCompiler2022.targets')" />
+  </ImportGroup>
+</Project>

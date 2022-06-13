@@ -1,0 +1,65 @@
+﻿@using QuizManager.Models.Helpers
+
+@model QuizListViewModel
+
+@{
+    ViewData["Title"] = @Model.PageTitle;
+}
+
+<div class="page-heading row">
+    <div class="col-sm-6 text-sm-start col-12 text-center px-4">
+        <h1>@Model.PageTitle</h1>
+    </div>
+    @if (Model.UserHasFullRights)
+    {
+        <div class="col-sm-6 text-sm-end col-12 text-center px-4">
+            <a class="btn btn-success" asp-area="" asp-controller="Quiz" asp-action="Update">Add quiz</a>
+        </div>
+    }
+</div>
+
+@if (Model.HasQuizzes)
+{
+    <div class="accordion accordion-flush" id="accordionFlush">
+        @{
+            int i = 1;
+            foreach (QuizListItemViewModel quiz in Model.Quizzes)
+            {
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-@i">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse-@i" aria-expanded="false" aria-controls="flush-collapse-@i">
+                            @quiz.QuizTitle
+                        </button>
+                    </h2>
+                    <div id="flush-collapse-@i" class="accordion-collapse collapse" aria-labelledby="flush-@i" data-bs-parent="#accordionFlush">
+                        <div class="accordion-body">
+                            <div class="row">
+                                @if (Model.UserHasFullRights)
+                                {
+                                    <div class="col-sm-4 col-12">
+                                        <a class="btn btn-primary col-12" asp-area="" asp-controller="Quiz" asp-action="Details" asp-route-quizId="@quiz.QuizId">View quiz</a>
+                                    </div>
+                                    <div class="col-sm-4 col-12 my-sm-0 my-2">
+                                        <a class="btn btn-warning col-12" asp-area="" asp-controller="Quiz" asp-action="Update" asp-route-quizId="@quiz.QuizId">Edit quiz</a>
+                                    </div>
+                                    <div class="col-sm-4 col-12">
+                                        <a class="btn btn-danger col-12" asp-area="" asp-controller="Quiz" asp-action="Delete" asp-route-quizId="@quiz.QuizId">Delete quiz</a>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <a class="btn btn-primary col-12" asp-area="" asp-controller="Quiz" asp-action="Details" asp-route-quizId="@quiz.QuizId">View quiz</a>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                i++;
+            }
+        }
+    </div>
+}
+else
+{
+    @await Html.PartialAsync("_NothingToDisplay", new NothingToDisplayViewModel() { Message = QuizConstants.NoneToShow })
+}

@@ -1,0 +1,15 @@
+@import 'i-branding-colours.scss';
+
+body {
+    color: $fg-primary;
+    overflow-x: hidden;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.text-muted {
+    color: $fg-primary-hover !important;
+    font-size: 12px;
+}

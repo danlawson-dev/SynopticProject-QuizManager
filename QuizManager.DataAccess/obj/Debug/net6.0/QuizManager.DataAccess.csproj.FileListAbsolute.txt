@@ -1,0 +1,68 @@
+C:\PD\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.DataAccess.deps.json
+C:\PD\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.DataAccess.runtimeconfig.json
+C:\PD\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.DataAccess.dll
+C:\PD\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.DataAccess.pdb
+C:\PD\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.Models.dll
+C:\PD\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.Models.pdb
+C:\PD\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.csproj.AssemblyReference.cache
+C:\PD\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\PD\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.AssemblyInfoInputs.cache
+C:\PD\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.AssemblyInfo.cs
+C:\PD\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\PD\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.csproj.CopyComplete
+C:\PD\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.dll
+C:\PD\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\refint\QuizManager.DataAccess.dll
+C:\PD\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.pdb
+C:\PD\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.genruntimeconfig.cache
+C:\PD\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\ref\QuizManager.DataAccess.dll
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.DataAccess.deps.json
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.DataAccess.runtimeconfig.json
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.DataAccess.dll
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.DataAccess.pdb
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.Models.dll
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.Models.pdb
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.AssemblyInfo.cs
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.csproj.CopyComplete
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.dll
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\refint\QuizManager.DataAccess.dll
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.pdb
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.genruntimeconfig.cache
+C:\Users\danla\Desktop\Daniel Lawson - SD Synoptic Project Quiz Manager\Submission\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\ref\QuizManager.DataAccess.dll
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.DataAccess.deps.json
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.DataAccess.runtimeconfig.json
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.DataAccess.dll
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.DataAccess.pdb
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.Models.dll
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.Models.pdb
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.AssemblyInfo.cs
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.csproj.CopyComplete
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.dll
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\refint\QuizManager.DataAccess.dll
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.pdb
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.genruntimeconfig.cache
+C:\Users\danla\Desktop\QuizManager\QuizManager.DataAccess\obj\Debug\net6.0\ref\QuizManager.DataAccess.dll
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.DataAccess.deps.json
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.DataAccess.runtimeconfig.json
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.DataAccess.dll
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.DataAccess.pdb
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.Models.dll
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\bin\Debug\net6.0\QuizManager.Models.pdb
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.AssemblyInfo.cs
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.csproj.CopyComplete
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.dll
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\obj\Debug\net6.0\refint\QuizManager.DataAccess.dll
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.pdb
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\obj\Debug\net6.0\QuizManager.DataAccess.genruntimeconfig.cache
+C:\Users\danla\Desktop\TheQuizManager\QuizManager.DataAccess\obj\Debug\net6.0\ref\QuizManager.DataAccess.dll

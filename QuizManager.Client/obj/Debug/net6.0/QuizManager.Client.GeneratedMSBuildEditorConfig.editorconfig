@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = QuizManager.Client
+build_property.RootNamespace = QuizManager.Client
+build_property.ProjectDir = C:\PD\QuizManager\QuizManager.Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\PD\QuizManager\QuizManager.Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Answer/AnswerLimitReached.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5zd2VyXEFuc3dlckxpbWl0UmVhY2hlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Answer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5zd2VyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Answer/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5zd2VyXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Question/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Question/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Question/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Quiz/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Quiz/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Quiz/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Quiz/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Shared/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5vdEZvdW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Shared/_LayoutExternal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRFeHRlcm5hbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Shared/_LayoutInternal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRJbnRlcm5hbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Shared/_NothingToDisplay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RoaW5nVG9EaXNwbGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PD/QuizManager/QuizManager.Client/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

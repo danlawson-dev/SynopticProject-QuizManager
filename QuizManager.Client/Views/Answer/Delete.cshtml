@@ -1,0 +1,32 @@
+﻿@model AnswerDeleteViewModel
+
+@{
+    ViewData["Title"] = "Delete Answer";
+}
+
+<div class="page-heading row">
+    <div class="col-sm-6 text-sm-start col-12 text-center px-4">
+        <h1>Delete Answer</h1>
+    </div>
+</div>
+
+<div class="row">
+    <div class="formContainer col-xl-6 col-sm-8 col-12 m-auto">
+        <form asp-controller="Answer" asp-action="Delete" method="post">
+            <div class="text-center mb-3">
+                <h2>Are you sure you want to delete answer: '@Model.AnswerText'?</h2>
+            </div>
+            <input asp-for="QuestionId" type="hidden" id="hiddenQuestionId">
+            <input asp-for="AnswerId" type="hidden" id="hiddenAnswerId">
+
+            <div class="button-container row mb-3">
+                <div class="col-sm-6 col-12">
+                    <a class="btn btn-secondary" asp-area="" asp-controller="Question" asp-action="Details" asp-route-questionId="@Model.QuestionId">No</a>
+                </div>
+                <div class="col-sm-6 col-12 mt-sm-0 mt-2">
+                    <button type="submit" class="btn btn-danger">Yes</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

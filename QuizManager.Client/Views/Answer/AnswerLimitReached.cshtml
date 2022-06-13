@@ -1,0 +1,18 @@
+﻿@using QuizManager.Models.Helpers
+
+@model AnswerLimitReachedViewModel
+
+@{
+    ViewData["Title"] = AnswerConstants.AnswerLimitReached;
+}
+
+<div class="page-heading row">
+    <div class="col-sm-6 text-sm-start col-12 text-center px-4">
+        <h1>@AnswerConstants.AnswerLimitReached</h1>
+    </div>
+</div>
+
+<div class="row text-center">
+    <i class="col-12">@AnswerConstants.AnswerLimitReachedMessage</i>
+    <a class="btn btn-primary col-lg-4 col-md-6 col-sm-8 col-12 mt-3 mx-auto" asp-area="" asp-controller="Question" asp-action="Details" asp-route-questionId="@Model.QuestionId">Back to question</a>
+</div>

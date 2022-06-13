@@ -1,0 +1,15 @@
+﻿footer {
+  background: #fff;
+  border-top: 1px solid #dddfe1;
+  bottom: 0;
+  height: 60px;
+  line-height: 30px;
+  position: fixed;
+  width: 100%;
+}
+
+@media (min-width: 576px) {
+  footer {
+    height: 30px;
+  }
+}

@@ -1,0 +1,18 @@
+@import 'i-branding-colours.scss';
+@import 'i-breakpoints.scss';
+@import 'i-global-styles.scss';
+
+.layout-internal {
+    background: $bg-primary;
+    min-height: 100vh;
+    padding: $page-content-padding;
+    padding-bottom: $page-content-padding + $footer-height-sm;
+    padding-top: $page-content-padding + $page-heading-height-sm;
+}
+
+@media (min-width: $sm) {
+    .layout-internal {
+        padding-bottom: $page-content-padding + $footer-height;
+        padding-top: $page-content-padding + $page-heading-height;
+    }
+}
